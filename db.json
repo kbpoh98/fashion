@@ -1,24 +1,59 @@
- [
-  {
-    "user": 1,
-    "id": 1,
-    "title": "quidem molestiae enim"
-  },
-  {
-    "user": 1,
-    "id": 2,
-    "title": "sunt qui excepturi placeat culpa"
-  },
-  {
-    "user": 1,
-    "id": 3,
-    "title": "omnis laborum odio"
-  },
-  {
-    "user": 1,
-    "id": 4,
-    "title": "non esse culpa molestiae omnis sed optio"
-  }
-  
-  ]
+[
+
+
+
+
+{
+	"company" : "TopShop/TopMan",
+	"discount": "15% Off",
+	"picture": "http://www.manilaonsale.com/wp-content/uploads/2013/11/Topshop-Topman-Student-Discount-Promo-November-2013.jpg"
+
 }
+
+,
+{
+	"company" : "ASOS",
+	"discount": "20% Off",
+	"picture": "http://www.manilaonsale.com/wp-content/uploads/2013/11/Topshop-Topman-Student-Discount-Promo-November-2013.jpg"
+
+}
+,
+{
+	"company" : "TopShop/TopMan",
+	"discount": "15% Off",
+	"picture": "http://www.manilaonsale.com/wp-content/uploads/2013/11/Topshop-Topman-Student-Discount-Promo-November-2013.jpg"
+
+}
+,
+{
+	"company" : "TopShop/TopMan",
+	"discount": "15% Off",
+	"picture": "http://www.manilaonsale.com/wp-content/uploads/2013/11/Topshop-Topman-Student-Discount-Promo-November-2013.jpg"
+
+}
+,
+
+{
+	"company" : "TopShop/TopMan",
+	"discount": "15% Off",
+	"picture": "http://www.manilaonsale.com/wp-content/uploads/2013/11/Topshop-Topman-Student-Discount-Promo-November-2013.jpg"
+
+}
+,
+
+{
+	"company" : "TopShop/TopMan",
+	"discount": "15% Off",
+	"picture": "http://www.manilaonsale.com/wp-content/uploads/2013/11/Topshop-Topman-Student-Discount-Promo-November-2013.jpg"
+
+}
+,
+
+{
+	"company" : "TopShop/TopMan",
+	"discount": "15% Off",
+	"picture": "http://www.manilaonsale.com/wp-content/uploads/2013/11/Topshop-Topman-Student-Discount-Promo-November-2013.jpg"
+
+}
+
+];
